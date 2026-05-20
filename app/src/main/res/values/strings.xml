@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PocketLAN</string>
+    <string name="notification_channel_name">PocketLAN sharing</string>
+    <string name="notification_channel_description">Keeps the PocketLAN file server available on your network.</string>
+</resources>

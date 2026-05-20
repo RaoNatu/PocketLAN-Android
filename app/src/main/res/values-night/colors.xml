@@ -1,0 +1,21 @@
+<resources>
+    <color name="pocket_bg">#0C1220</color>
+    <color name="pocket_bg_end">#17132B</color>
+    <color name="pocket_surface">#D9121C2D</color>
+    <color name="pocket_surface_alt">#BF18243A</color>
+    <color name="pocket_card">#A91D2B42</color>
+    <color name="pocket_line">#668BA2C1</color>
+    <color name="pocket_glass_line">#26FFFFFF</color>
+    <color name="pocket_text">#F7FAFF</color>
+    <color name="pocket_muted">#B1BED1</color>
+    <color name="pocket_cyan">#3ED8F0</color>
+    <color name="pocket_cyan_dark">#1093AE</color>
+    <color name="pocket_emerald">#55D88E</color>
+    <color name="pocket_rose">#FF7B91</color>
+    <color name="pocket_amber">#F6C35E</color>
+    <color name="pocket_action_text">#07111D</color>
+    <color name="pocket_status_running">#263D34</color>
+    <color name="pocket_status_stopped">#273145</color>
+    <color name="pocket_status_error">#452734</color>
+    <color name="pocket_white">#FFFFFF</color>
+</resources>

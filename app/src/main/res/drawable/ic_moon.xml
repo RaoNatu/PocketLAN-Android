@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/pocket_action_text"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12C2,17.52 6.48,22 12,22C15.76,22 19.03,19.92 20.74,16.85C19.61,17.34 18.36,17.6 17.05,17.6C11.83,17.6 7.6,13.37 7.6,8.15C7.6,6.84 7.86,5.59 8.35,4.46C5.28,6.17 3.2,9.44 3.2,13.2C3.2,17.84 6.96,21.6 11.6,21.6C9.16,19.78 7.6,16.88 7.6,13.6C7.6,9.17 10.47,5.4 14.46,4.07C13.68,2.82 12.2,2.01 12,2Z" />
+</vector>

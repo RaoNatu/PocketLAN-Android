@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="page_padding">32dp</dimen>
+    <dimen name="card_padding">22dp</dimen>
+    <dimen name="log_panel_height">360dp</dimen>
+</resources>

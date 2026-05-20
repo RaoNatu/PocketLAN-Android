@@ -1,0 +1,35 @@
+<resources>
+    <style name="Theme.PocketLAN" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/pocket_bg</item>
+        <item name="android:statusBarColor">@color/pocket_bg</item>
+        <item name="android:navigationBarColor">@color/pocket_bg</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="colorPrimary">@color/pocket_cyan</item>
+        <item name="colorSecondary">@color/pocket_emerald</item>
+        <item name="colorSurface">@color/pocket_surface</item>
+        <item name="colorOnSurface">@color/pocket_text</item>
+        <item name="materialButtonStyle">@style/Widget.PocketLAN.Button</item>
+        <item name="textInputStyle">@style/Widget.PocketLAN.TextInputLayout</item>
+    </style>
+
+    <style name="Widget.PocketLAN.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">8dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="Widget.PocketLAN.OutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">8dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="Widget.PocketLAN.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxStrokeColor">@color/pocket_cyan</item>
+        <item name="hintTextColor">@color/pocket_muted</item>
+    </style>
+</resources>
